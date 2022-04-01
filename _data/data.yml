@@ -74,13 +74,13 @@ experiences:
       time: 2015 - 2016
       company: VTC Game, Ha Noi
       details: |
-        Develop hyper casual games and perfect your Unity experience.
+        Develop hyper casual games and perfect my Unity experience.
         
     - role: Game Developer
       time: 2014 - 2015
       company: Yotel Game, Ha Noi
       details: |
-        Game development based on Gideros engine and Corona game engine,learn more about game development.
+        Game development based on Gideros engine and Corona game engine, learn more about game development.
         
 projects:
     title: Projects
@@ -89,11 +89,11 @@ projects:
     assignments:
       - title: Dungeon VS Gunner
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
 
       - title: Space shooter - Galaxy attack
         link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Product development as a key member, accompanying the product from reaching 5 million downloads to reaching 100 million downloads."
 
 skills:
     title: Skills &amp; Proficiency
