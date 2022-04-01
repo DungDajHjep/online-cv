@@ -87,11 +87,11 @@ projects:
     intro: >
       Here are my featured products:
     assignments:
-      - title: CoreCrystalGames : Dungeon VS Gunner
+      - title: Dungeon VS Gunner
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Rocket Game Studio: Space shooter - Galaxy attack
+      - title: Space shooter - Galaxy attack
         link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
