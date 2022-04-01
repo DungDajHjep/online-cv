@@ -18,12 +18,11 @@ sidebar:
     website: corecrystalgames.com #do not add http://
     linkedin: vietdungdev
     github: DungDajHjep
-    telegram: t.me/vietdungdev # add your nickname without '@' sign
-    twitter: '@vietdungdev'
+    telegram: vietdungdev # add your nickname without '@' sign
+    twitter: 'vietdungdev'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Vietnamese
@@ -132,23 +131,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Unity & C#
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Playfab DB
+        level: 90%
+        
+      - name: Unet & Mirror Networking
+        level: 70%
+        
+      - name: Javascript
+        level: 30%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MongoDB
+        level: 30%
+
+      - name: Photoshop & Aseprite
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
