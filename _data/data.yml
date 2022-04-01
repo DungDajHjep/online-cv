@@ -7,117 +7,78 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vũ Việt Dũng
+    tagline: Unity Developer and Game Designer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: vietdungdev@gmail.com
+    phone: 0983470253
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    website: corecrystalgames.com #do not add http://
+    linkedin: vietdungdev
+    github: DungDajHjep
+    telegram: t.me/vietdungdev # add your nickname without '@' sign
+    twitter: '@vietdungdev'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Vietnamese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Google Translate
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I always want to improve myself so 
+      I always try my best at every company I have worked for.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Software Engineer 
+      university: Phuong Dong University
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Received an excellent scholarship in one semester.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: CPO
+      time: 2019 - Present
+      company: Startup CoreCrystalGames, Ha Noi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a startup environment, I am forced to take on many different 
+        roles Unity Dev, Game Designer, Art Director ... 
+        I fulfill roles well and products are released and improved every day..
+          - Unity Dev
           - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+    - role: Senior Unity Developer
+      time: 2016 - 2019
+      company: Rocket - OneSoft, Ha Noi
+      details: |
+        As an employee who always does his job well, 
+        I was awarded the best employee of the year 
+        and was the person who coded the least bugs on the team.
+          - Nominated as employee of the year.
+          - Coded the least bugs on the team.
+    - role: Unity Developer
+      time: 2015 - 2016
+      company: VTC Game, Ha Noi
+      details: |
+        Develop hyper casual games and perfect your Unity experience.
+        - role: Unity Developer
       time: 2014 - 2015
-      company: Google, London
+      company: Yotel Game, Ha Noi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Game development based on Gideros engine and Corona game engine.
 projects:
     title: Projects
     intro: >
