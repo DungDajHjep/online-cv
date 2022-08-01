@@ -97,7 +97,7 @@ projects:
     assignments:
 	  - title: Doragonland
         link: "https://refactor.doragonland.io/"
-        tagline: "Code the entire gameplay of the project in 3 months from April to July, fix all the whole error of old project."
+        tagline: "Re-code the entire gameplay of the project (including multi player and offline mode) in 3 months, fix all the whole error of old project."
 		
       - title: Dungeon VS Gunner
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
