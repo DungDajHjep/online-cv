@@ -54,10 +54,10 @@ experiences:
       time: 01/2022 - Present
       company: VMO, Ha Noi
       details: |
-        I joined the project support in January to launch the first version. 
+        I joined the project support in January to launch the first version.
 		I came back in April and re-coded the entire gameplay of the project in 3 months.
           - Work as full stack developer.
-		  
+
     - role: CPO
       time: 2019 - Present
       company: Startup CoreCrystalGames, Ha Noi
@@ -67,7 +67,7 @@ experiences:
         I fulfill roles well and products are released and improved every day.
           - Work as full stack developer.
           - Experience in team management.
-          
+
     - role: Senior Unity Developer
       time: 2016 - 2019
       company: Rocket - OneSoft, Ha Noi
@@ -77,19 +77,19 @@ experiences:
         and was the person who coded the least bugs on the team.
           - Nominated as employee of the year.
           - Coded the least bugs on the team.
-          
+
     - role: Unity Developer
       time: 2015 - 2016
       company: VTC Game, Ha Noi
       details: |
         Develop hyper casual games and perfect my Unity experience.
-        
+
     - role: Game Developer
       time: 2014 - 2015
       company: Yotel Game, Ha Noi
       details: |
         Game development based on Gideros engine and Corona game engine, learn more about game development.
-        
+
 projects:
     title: Projects
     intro: >
