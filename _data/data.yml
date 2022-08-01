@@ -50,6 +50,14 @@ education:
       details: |
         - Received an excellent scholarship in one semester.
 experiences:
+    - role: Supporter, Refactor
+      time: 01/2022 - Present
+      company: VMO, Ha Noi
+      details: |
+        I joined the project support in January to launch the first version. 
+		I came back in April and re-coded the entire gameplay of the project in 3 months.
+          - Work as full stack developer.
+		  
     - role: CPO
       time: 2019 - Present
       company: Startup CoreCrystalGames, Ha Noi
@@ -87,6 +95,10 @@ projects:
     intro: >
       Here are my featured products:
     assignments:
+	  - title: Doragonland
+        link: "https://refactor.doragonland.io/"
+        tagline: "Code the entire gameplay of the project in 3 months from April to July, fix all the whole error of old project."
+		
       - title: Dungeon VS Gunner
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
         tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
