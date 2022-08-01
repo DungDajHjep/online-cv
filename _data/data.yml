@@ -90,7 +90,7 @@ projects:
 	  - title: Doragonland
         link: "https://refactor.doragonland.io/"
         tagline: "Re-code the entire gameplay of the project (including multi player and offline mode) in 3 months, fix all the whole error of old project."
-		
+
       - title: Dungeon VS Gunner
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
         tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
