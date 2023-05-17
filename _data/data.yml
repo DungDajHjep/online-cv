@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: vietdungdev@gmail.com
-    phone: 0983470253
+    phone: (+84)983470253
     citizenship:
     website: corecrystalgames.com #do not add http://
     linkedin: vietdungdev
@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Can read and communicate through Google Translate
+        level: Can read and communicate through Chat
 
     interests:
       - item: Gaming
@@ -50,13 +50,12 @@ education:
       details: |
         - Received an excellent scholarship in one semester.
 experiences:
-    - role: Supporter, Refactor
+    - role: Senior Unity Developer
       time: 01/2022 - Present
       company: VMO, Ha Noi
       details: |
-        I joined the project support in January to launch the first version.
-        I came back in April and re-coded the entire gameplay of the project in 3 months.
-          - Work as full stack developer.
+        - Re-coded the entire gameplay of the project in 3 months.
+        - Work as full stack developer.
 
     - role: CPO
       time: 2019 - Present
@@ -96,7 +95,7 @@ projects:
       Here are my featured products:
     assignments:
       - title: Doragonland
-        link: "https://refactor.doragonland.io/"
+        link: "https://www.doragonland.io/"
         tagline: "Re-code the entire gameplay of the project (including multi player and offline mode) in 3 months, fix all the whole error of old project."
 
       - title: Dungeon VS Gunner
@@ -117,11 +116,11 @@ skills:
       - name: Unity & C#
         level: 95%
 
-      - name: Playfab DB
-        level: 90%
+      - name: Playfab, Azure Serverless, Azure Table DB
+        level: 95%
         
-      - name: Unet & Mirror Networking
-        level: 70%
+      - name: FishNet & Mirror Networking
+        level: 90%
         
       - name: Javascript
         level: 30%
