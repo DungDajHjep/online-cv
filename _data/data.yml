@@ -97,8 +97,12 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
         tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
 
+      - title: DoragonLand
+        link: "https://play.google.com/store/apps/details?id=com.quasargamestudio.doragonland&hl=en&gl=US"
+        tagline: "Fullstack developer - multiplayer game"
+
       - title: Space shooter - Galaxy attack
-        link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2"
+        link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=en&gl=US"
         tagline: "Product development as a key member, accompanying the product from reaching 5 million downloads to reaching 100 million downloads."
 
       - title: Stickman Run - Shadow Adventure
