@@ -93,9 +93,13 @@ projects:
     intro: >
       Here are my featured products:
     assignments:
-      - title: Dungeon VS Gunner
+      - title: Dungeon VS Gunner (Indie Game)
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.dungeonvsgunner"
         tagline: "Take on the full role of game developer and designer, as well as the art director in the game."
+
+      - title: Hill Racing Boss (Indie Game)
+        link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.hillracingboss"
+        tagline: "3D Racing game - Take on the full role of game developer and designer"
 
       - title: DoragonLand
         link: "https://play.google.com/store/apps/details?id=com.quasargamestudio.doragonland&hl=en&gl=US"
