@@ -101,6 +101,10 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.corecrystalgames.hillracingboss"
         tagline: "3D Racing game - Take on the full role of game developer and designer"
 
+      - title: Demo 3d game with 500 unit fighting
+        link: "https://drive.google.com/file/d/1EiwlTIh9hsnAWtH9OpoU8yTez67Hy2ty/view"
+        tagline: "A 3D demo game utilizing Unity DOTS technology, featuring over 500 units in battle"
+
       - title: DoragonLand
         link: "https://play.google.com/store/apps/details?id=com.quasargamestudio.doragonland&hl=en&gl=US"
         tagline: "Fullstack developer - multiplayer game"
@@ -108,19 +112,15 @@ projects:
       - title: Space shooter - Galaxy attack
         link: "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=en&gl=US"
         tagline: "Product development as a key member, accompanying the product from reaching 5 million downloads to reaching 100 million downloads."
-
-      - title: Stickman Run - Shadow Adventure
-        link: "https://play.google.com/store/apps/details?id=com.rocket.stickmanrun"
-        tagline: "My first project at Rocket Games."
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Unity & C#
-        level: 99%
+      - name: Unity, C#, DOTS, Shader Graph
+        level: 95%
 
       - name: Playfab, Azure Serverless, Azure Table DB
-        level: 90%
+        level: 80%
         
       - name: Multi Player Game
         level: 80%
